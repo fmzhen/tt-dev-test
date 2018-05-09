@@ -1,0 +1,12 @@
+2018/05/09 17:49:19.500 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/05/09 17:49:59.847 [D] [server.go:2694] ::1 - - [09/May/2018 05:49:59] "GET /users/2/relationships HTTP/1.1 500 0" 0.002153  
+
+2018/05/09 17:50:41.814 [D] [server.go:2694] ::1 - - [09/May/2018 05:50:41] "GET /users/2/relationships HTTP/1.1 500 0" 0.000744  
+
+2018/05/09 17:50:43.848 [D] [server.go:2694] ::1 - - [09/May/2018 05:50:43] "GET /users/2/relationships HTTP/1.1 500 0" 0.000844  
+
+2018/05/09 17:51:54.294 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/05/09 17:52:00.391 [I] [asm_amd64.s:2361] http server Running on http://:8080
+2018/05/09 17:53:32.018 [D] [server.go:2694] ::1 - - [09/May/2018 05:53:32] "GET /users/1/relationships HTTP/1.1 200 0" 0.001928  
+
+2018/05/09 18:20:43.045 [I] [asm_amd64.s:2361] http server Running on http://:8080
